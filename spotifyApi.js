@@ -17,9 +17,9 @@ const discovery = {
   tokenEndpoint: "https://accounts.spotify.com/api/token",
 };
 
-const CLIENT_ID = "51168e71ffeb4374b9cb0151fcab5720";
-const CLIENT_SECRET = "7714f45443ca4037aa3a6f0113e5a209";
-const MY_REDIRECT_URI = "exp://192.168.206.87:8081";
+const CLIENT_ID = "xxxx";
+const CLIENT_SECRET = "xxxx";
+const MY_REDIRECT_URI = "xxxx";
 const LIMIT = 10;
 
 // Define the default market
