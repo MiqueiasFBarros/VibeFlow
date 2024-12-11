@@ -22,7 +22,7 @@ VibeFlow é um aplicativo de música desenvolvido com React Native e Expo, que p
 
 1. **Clone o repositório:**
     ```sh
-    git clone <(https://github.com/MiqueiasFBarros/VibeFlow.git)>
+    git clone <https://github.com/MiqueiasFBarros/VibeFlow.git>
     cd vibeFlow
     ```
 
