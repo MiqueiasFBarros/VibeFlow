@@ -22,7 +22,7 @@ VibeFlow é um aplicativo de música desenvolvido com React Native e Expo, que p
 
 1. **Clone o repositório:**
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone <(https://github.com/MiqueiasFBarros/VibeFlow.git)>
     cd vibeFlow
     ```
 
@@ -50,7 +50,7 @@ VibeFlow é um aplicativo de música desenvolvido com React Native e Expo, que p
 
 1. **Inicie o projeto:**
     ```sh
-    expo start
+    npm expo start
     ```
 
 2. **Execute no emulador ou dispositivo físico:**
